@@ -1,0 +1,3 @@
+[submodule "Simple_Maths"]
+	path = Simple_Maths
+	url = https://github.com/rudrasohan/Simple_Maths.git
